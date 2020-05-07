@@ -1,0 +1,5 @@
+main: fr.volax.wdapi.WorldBorderAPI
+name: WolrdBorderAPI
+version: 1.0.00a
+author: Volax
+description: WorldBorderAPI
