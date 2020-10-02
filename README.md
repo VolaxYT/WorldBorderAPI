@@ -1,6 +1,6 @@
 # WorldBorderAPI
-My new API for Minecraft Server
+API to simplify and automate certain worldborder tasks
 
-Version: **1.0.00b**
-
+Next Update: **Rework soon**
+Version: **1.0.00**
 Status: **Unstable**
